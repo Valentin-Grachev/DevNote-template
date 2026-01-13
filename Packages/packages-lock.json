@@ -15,28 +15,11 @@
       "hash": "8a8fa5a9659a6d63f196391c71e06c4286c8acd7"
     },
     "com.devnote": {
-      "version": "file:com.devnote",
+      "version": "https://github.com/Valentin-Grachev/DevNote.git?path=com.devnote",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.devnote.sdk.game_push": {
-      "version": "file:com.devnote.sdk.game_push",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.devnote.sdk.yandex_games": {
-      "version": "file:com.devnote.sdk.yandex_games",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.devnote.sdk.yandex_metrika": {
-      "version": "file:com.devnote.sdk.yandex_metrika",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "a43d717a151d0e59d8e63bb1a0507811a28bb5f5"
     },
     "com.unity.2d.animation": {
       "version": "7.1.1",
